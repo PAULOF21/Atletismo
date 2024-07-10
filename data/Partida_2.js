@@ -1,0 +1,1 @@
+var json_Partida_2 = {"type":"FeatureCollection","name":"Partida_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Tipo":"Partida"},"geometry":{"type":"MultiPoint","coordinates":[[-9.161599813711799,38.825240496612274]]}}]}

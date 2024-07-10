@@ -1,0 +1,1 @@
+var json_Chegada_3 = {"type":"FeatureCollection","name":"Chegada_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Tipo":"Chegada"},"geometry":{"type":"Point","coordinates":[-9.161541487283685,38.825167019297197]}}]}
