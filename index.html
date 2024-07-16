@@ -349,7 +349,7 @@
                 feature: layer.feature,
                 variables: {}
             };
-            layer.bindTooltip((layer.feature.properties['Nome'] !== null?String('<div style="color: #323232; font-size: 9pt; font-family: \'Arial\', sans-serif;">' + layer.feature.properties['Nome']) + '</div>':''), {permanent: true, offset: [-0, -16], className: 'css_Guias_4'});
+            layer.bindTooltip((layer.feature.properties['Nome'] !== null?String('<div style="color: #323232; buffer: true; font-size: 9pt; font-family: \'Arial\', sans-serif;">' + layer.feature.properties['Nome']) + '</div>':''), {permanent: true, offset: [-0, -16], className: 'css_Guias_4'});
             labels.push(layer);
             totalMarkers += 1;
               layer.added = true;
